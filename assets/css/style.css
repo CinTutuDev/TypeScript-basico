@@ -6,7 +6,7 @@
 }
 
 body{
-    background: rgb(36,81,166);
+    background: rgb(36, 110, 166);
     background: linear-gradient(90deg, rgba(36,81,166,1) 11%, rgba(68,129,210,1) 100%);
     padding: 5px 30px;
 }
