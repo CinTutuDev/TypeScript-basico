@@ -20,5 +20,7 @@ Por defecto, el puerto que configuré para este proyecto es el ```8081```, pero 
 ```
 "start": "webpack-dev-server --mode development --open --port=8081"
 ```
+## Para buscar documentación oficial la encuentras en este enlace: 
+https://www.typescriptlang.org/docs/handbook/basic-types.html 
 
 
